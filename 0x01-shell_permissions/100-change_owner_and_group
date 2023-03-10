@@ -1,2 +1,3 @@
 #!/bin/bash
-chown --vincent:* staff 
+chown viincent:* staff 100-change_owner_and_group 13-change_group 12-directory_permissions 11-directories_permissions 10-mirror_permissions 9-John_Doe 8-James_Bond 7-everybody 6-multiple_permissions 5-execute 4-empty 3-new_owner 2-groups 1-who_am_i 0-iam_betty  hello   README.md
+olleh school 

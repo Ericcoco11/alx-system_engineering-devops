@@ -1,1 +1,1 @@
-echo “Hello, World” is a script that prints “Hello, World”" 
+this permissions are great
